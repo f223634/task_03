@@ -1,5 +1,5 @@
 package task03;
-
+// all validation logic
 public class Validation {
 
     public boolean validateUser(String username, String password) throws Exception {
